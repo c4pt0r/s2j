@@ -14,3 +14,7 @@ $ pip3 install -r requirements.txt
 $ export OPENAI_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXX
 $ python3 ./main.py --working-dir=./sql
 ```
+
+## Sample Output
+
+https://gist.github.com/c4pt0r/b622fe5cd750cb998e5ab0038ae893d2
